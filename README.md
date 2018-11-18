@@ -1,7 +1,6 @@
 # Model-of-Pleistocene-Glacial-Cycles
 Supplementary to ESD paper 
-"A Theory of Pleistocene Glacial Rhythmicity" by MY Verbitsky, M Crucifix, DM Volobuev
-Accepted for publication in Earth System Dynamics (2018).
+Verbitsky, M. Y., Crucifix, M., & Volobuev, D. M. (2018). A theory of Pleistocene glacial rhythmicity. Earth System Dynamics, 9(3), 1025-1043.
 
 This package presents the supplementary MatLab scripts to reproduce results of the paper
 
